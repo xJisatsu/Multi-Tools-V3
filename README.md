@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/996956106628800575/997027163960250450/waneella-pixel-art.gif">
 </p>
 
-<h1 align="center">[Discord, Roblox and Tiktok] - Multi Tool (V2.0)</h1>
+<h1 align="center">[Discord, Roblox and Tiktok] - Multi Tool (V3.0)</h1>
 <p align="center">
   <a href="https://github.com/Jixatsu/Multi-Tools/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
